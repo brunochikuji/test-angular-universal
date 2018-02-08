@@ -1,0 +1,60 @@
+body { 
+    font-size:9pt;
+    font-family:Verdana;
+}
+
+#cabecalho { 
+    float:left;
+    width:100%;
+}
+
+#cabecalho img{ 
+    float:left; 
+}
+
+#cabecalho div{ 
+    float:right;
+    text-align:right;
+}
+
+#cabecalho div p{
+    line-height:10px;
+}
+
+#data_sheet{
+    float:left;
+    width:503px;
+}
+
+#photos{
+    float:right;
+}
+
+#photos img{
+    width:256px; 
+    height:192px;
+    float:right;
+    clear:both;
+    margin-bottom:10px;
+}
+
+ul{
+    padding:0px;
+}
+
+ul li{
+    list-style:square inside;
+}
+
+h2, h4{
+    margin:0px;
+}
+
+h2{
+    margin: 5px;
+}
+
+h4{
+    margin-bottom:3px;
+
+}

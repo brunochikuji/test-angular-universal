@@ -1,0 +1,48 @@
+<div id="data_sheet" *ngIf="property">
+    <h2>{{property.address}} - {{property.neighborhood}} - {{property.city}}/{{property.state}}</h2>
+
+    <ul>
+        <li>Código: {{property.code}}</li>
+        <li>Tipo: {{property.property_type}}</li>
+        <li>Subtipo: {{property.property_subtype}}</li>
+        <li>Área Útil: {{property.useful_area}} m²</li>
+        <li>Dormitórios: {{property.bedroom}}</li>
+        <li>Suítes: {{property.suite}}</li>
+        <li>Vagas: {{property.garage}}</li>
+        <li>Banheiros: {{property.bathroom}}</li>
+    </ul>
+
+    <ul class="imovelficha_valores">
+    <h4>Valores</h4>
+        <li>
+        Venda: {{property.sale_value}}
+        </li>
+        <li>
+        Locação: {{property.rental_value}}
+        </li>
+    </ul>
+
+    <h4>Descrição</h4>
+    <p>{{property.site_description}}</p>
+</div>
+
+<div id="photos" *ngIf="property.photos">    
+    <div *ngFor="let photo of property.photos['Photos']"> 
+        <img alt="property photos" src="{{photo.url}}" />
+    </div>
+
+    <!-- <div id="map"></div>
+
+    <script type="text/javascript">
+
+    // Setando latitude e longitude.
+    var latlng = new google.maps.LatLng({{property.latitude}}, {{property.longitude}});
+
+    // Instanciando o mapa.
+    var map = new google.maps.Map(document.getElementById('map'),{
+        zoom: 16, center: latlng, mapTypeId: google.maps.MapTypeId.ROADMAP
+    });
+
+    </script> -->
+
+</div>

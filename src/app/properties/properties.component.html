@@ -1,0 +1,7 @@
+<h1>Imóveis</h1>
+
+<ul>
+    <div *ngFor="let property of properties">        
+        <li> <a [routerLink]="['/properties/', property.code+'.html']">{{ property.address }}</a></li>
+    </div>
+</ul>

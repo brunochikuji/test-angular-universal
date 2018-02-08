@@ -1,5 +1,5 @@
 {
-  "name": "ng-universal-demo",
+  "name": "test-universal-angular",
   "version": "0.0.0",
   "license": "MIT",
   "repository": {
@@ -13,7 +13,8 @@
     "Jeff Cross <crossj@google.com>",
     "Mark Pieszak <mpieszak84@gmail.com>",
     "Jason Jean <jasonjean1993@gmail.com>",
-    "Fabian Wiles <fabian.wiles@gmail.com>"
+    "Fabian Wiles <fabian.wiles@gmail.com>",
+    "Felipe Bergmans <bergmansfelipe@gmail.com>"
   ],
   "scripts": {
     "ng": "ng",

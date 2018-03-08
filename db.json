@@ -1,0 +1,1009 @@
+{
+  "company": [
+    {
+      "id": 1,
+      "nome": "Imantovani",
+      "logo": "http://layout12.imobzi.com/images/logo.png?1500309738",
+      "email": "contato@imobzi.com",
+      "copyright": "Rayada Imóveis",
+      "phones": [
+        "(11) 4063-4100",
+        "(11) 4063-4101"
+      ],
+      "address": {
+        "street": "Avenida das Nações Unidas",
+        "number": "18801",
+        "neighborhood": "Vila Almeida",
+        "city": "São Paulo",
+        "state": "SP",
+        "location": {
+          "longitude": -23.652986,
+          "latitude": -46.720482
+        }
+      },
+      "social": {
+        "facebook": "https://www.facebook.com/",
+        "twitter": "https://twitter.com/",
+        "instagram": "https://instagram.com/",
+        "googleplus": "https://plus.google.com"
+      }
+    }
+  ],
+  "menu": [
+    {
+      "id": 1,
+      "categories": [
+        {
+          "title": "Home",
+          "anchor": "#",
+          "links": []
+        },
+        {
+          "title": "Empresa",
+          "anchor": "#",
+          "links": [
+            {
+              "title": "Quem Somos",
+              "content-type": "content",
+              "id": 1
+            },
+            {
+              "title": "Trabalho Conosco",
+              "content-type": "form",
+              "id": 2
+            },
+            {
+              "title": "Parceiros",
+              "content-type": "content",
+              "id": 2
+            }
+          ]
+        },
+        {
+          "title": "Imóveis",
+          "anchor": "#",
+          "links": []
+        },
+        {
+          "title": "Serviços",
+          "anchor": "#",
+          "links": []
+        },
+        {
+          "title": "Contato",
+          "anchor": "#",
+          "links": []
+        }
+      ]
+    }
+  ],
+  "content": [
+    {
+      "id": 1,
+      "title": "Quem Somos",
+      "text": "Nós da figueira....</br>lorem ipsum"
+    },
+    {
+      "id": 2,
+      "title": "Parceiros",
+      "text": "Nós da figueira2....</br>lorem ipsum"
+    },
+    {
+      "id": 3,
+      "title": "Financiamento",
+      "text": "Nós da figueira2....</br>lorem ipsum"
+    },
+    {
+      "id": 4,
+      "title": "Documentação",
+      "text": "Nós da figueira2....</br>lorem ipsum"
+    }
+  ],
+  "propertyDeals": [
+    {
+      "id": 1,
+      "title": "Alugar",
+      "quantity": 2
+    },
+    {
+      "id": 2,
+      "title": "Comprar",
+      "quantity": 2
+    },
+    {
+      "id": 3,
+      "title": "Temporada",
+      "quantity": 2
+    }
+  ],
+  "propertyTypes": [
+    {
+      "id": 1,
+      "title": "Apartamento/Padrão",
+      "quantity": 2
+    },
+    {
+      "id": 2,
+      "title": "Apartamento/Luxo",
+      "quantity": 2
+    }
+  ],
+  "cities": [
+    {
+      "id": 1,
+      "title": "São Paulo",
+      "quantity": 2
+    }
+  ],
+  "neighborhoods": [
+    {
+      "id": 2,
+      "title": "Santo Amaro",
+      "quantity": 2
+    }
+  ],
+  "propertyAreas": [
+    {
+      "min": 31,
+      "max": 60,
+      "quantity": 2
+    },
+    {
+      "min": 61,
+      "max": 82,
+      "quantity": 2
+    }
+  ],
+  "propertyValues": [
+    {
+      "min": 3100,
+      "max": 6000,
+      "quantity": 2
+    },
+    {
+      "min": 6100,
+      "max": 8200,
+      "quantity": 2
+    }
+  ],
+  "propertyBedrooms": [
+    {
+      "bedrooms": 2,
+      "quantity": 2
+    },
+    {
+      "bedrooms": 3,
+      "quantity": 2
+    }
+  ],
+  "propertySuites": [
+    {
+      "suites": 2,
+      "quantity": 2
+    },
+    {
+      "suites": 3,
+      "quantity": 2
+    }
+  ],
+  "propertyparkingspaces": [
+    {
+      "parkingspaces": 2,
+      "quantity": 2
+    },
+    {
+      "parkingspaces": 3,
+      "quantity": 2
+    }
+  ],
+  "markerInfos": [
+    {
+      "id": 1,
+      "propertyid": 1,
+      "longitude": -46.720442,
+      "latitude": -23.652952,
+      "photoUrl": "http://s.quickfast.com/imobzimodelo/fotos/131-100/3011.jpg",
+      "details": {
+        "neighboorhood": "Cidade Monções",
+        "type": "Casa",
+        "subtype": " de Vila",
+        "bedrooms": 5,
+        "suites": 0,
+        "parkingspots": 5,
+        "area": 5,
+        "prices": {
+          "sellingPrice": 0,
+          "rentPrice": 4000.6,
+          "seasonPrice": 1
+        }
+      }
+    },
+    {
+      "id": 2,
+      "propertyid": 4,
+      "longitude": -46.720442,
+      "latitude": -23.652952,
+      "photoUrl": "http://s.quickfast.com/imobzimodelo/fotos/131-100/3011.jpg",
+      "details": {
+        "neighboorhood": "Cidade Monções",
+        "type": "Mansão",
+        "subtype": " de Vila",
+        "bedrooms": 5,
+        "suites": 1,
+        "parkingspots": 5,
+        "area": 5,
+        "prices": {
+          "sellingPrice": 4500000,
+          "rentPrice": 4000,
+          "seasonPrice": 4
+        }
+      }
+    },
+    {
+      "id": 3,
+      "propertyid": 2,
+      "longitude": -46.72045,
+      "latitude": -23.653,
+      "photoUrl": "http://s.quickfast.com/imobzimodelo/fotos/131-100/3011.jpg",
+      "details": {
+        "neighboorhood": "Cidade Monções",
+        "type": "Casa",
+        "subtype": " de Vila",
+        "bedrooms": 5,
+        "suites": 1,
+        "parkingspots": 5,
+        "area": 5,
+        "prices": {
+          "sellingPrice": 4500000,
+          "rentPrice": 4000,
+          "seasonPrice": 4
+        }
+      }
+    },
+    {
+      "id": 4,
+      "propertyid": 3,
+      "longitude": -46.720458,
+      "latitude": -23.6535,
+      "photoUrl": "http://s.quickfast.com/imobzimodelo/fotos/131-100/3011.jpg",
+      "details": {
+        "neighboorhood": "Cidade Monções",
+        "type": "Casa",
+        "subtype": " de Vila",
+        "bedrooms": 5,
+        "suites": 1,
+        "parkingspots": 5,
+        "area": 5,
+        "prices": {
+          "sellingPrice": 4500000,
+          "rentPrice": 4000,
+          "seasonPrice": 4
+        }
+      }
+    }
+  ],
+  "mapLocations": [
+    {
+      "longitude": -46.720442,
+      "latitude": -23.652952,
+      "properties": [
+        {
+          "propertyId": 1
+        },
+        {
+          "propertyId": 2
+        }
+      ]
+    },
+    {
+      "longitude": -46.72045,
+      "latitude": -23.653,
+      "properties": [
+        {
+          "propertyId": 3
+        }
+      ]
+    },
+    {
+      "longitude": -46.720458,
+      "latitude": -23.6535,
+      "properties": [
+        {
+          "propertyId": 4
+        }
+      ]
+    }
+  ],
+  "spotlights": [
+    {
+      "id": 1,
+      "imovelid": 1,
+      "code": 3,
+      "position": 1,
+      "coverphoto": "http://s.quickfast.com/imobzimodelo/fotos/648-344/2979.jpg",
+      "title": "Belíssimo apto",
+      "sellprice": "4500000",
+      "rentprice": "30000",
+      "description": "Florida e um dos condomínios mais completos da região - Logo na entrada você se impressiona com a grandeza do placeholderplaceholderplaceholder",
+      "bedrooms": 5,
+      "suites": 3,
+      "parkingspots": 5,
+      "area": 160,
+      "type": "Casa",
+      "subtype": "de Vila",
+      "availability": {
+        "sell": true,
+        "rent": true,
+        "season": false
+      }
+    },
+    {
+      "id": 2,
+      "imovelid": 1,
+      "code": 3,
+      "position": 2,
+      "coverphoto": "http://s.quickfast.com/imobzimodelo/fotos/648-344/2979.jpg",
+      "title": "Belíssimo apto",
+      "sellprice": "4500000",
+      "rentprice": "30000",
+      "description": "Florida e um dos condomínios mais completos da região - Logo na entrada você se impressiona com a grandeza do placeholderplaceholderplaceholder",
+      "bedrooms": 5,
+      "suites": 3,
+      "parkingspots": 5,
+      "area": 160,
+      "type": "Casa",
+      "subtype": "de Vila",
+      "availability": {
+        "sell": true,
+        "rent": true,
+        "season": false
+      }
+    },
+    {
+      "id": 3,
+      "imovelid": 1,
+      "code": 3,
+      "position": 3,
+      "coverphoto": "http://s.quickfast.com/imobzimodelo/fotos/648-344/2979.jpg",
+      "title": "Belíssimo apto",
+      "sellprice": "4500000",
+      "rentprice": "30000",
+      "description": "Florida e um dos condomínios mais completos da região - Logo na entrada você se impressiona com a grandeza do placeholderplaceholderplaceholder",
+      "bedrooms": 5,
+      "suites": 3,
+      "parkingspots": 5,
+      "area": 160,
+      "type": "Casa",
+      "subtype": "de Vila",
+      "availability": {
+        "sell": false,
+        "rent": false,
+        "season": true
+      }
+    },
+    {
+      "id": 4,
+      "imovelid": 1,
+      "code": 3,
+      "position": 4,
+      "coverphoto": "http://s.quickfast.com/imobzimodelo/fotos/648-344/2979.jpg",
+      "title": "Belíssimo apto",
+      "sellprice": "4500000",
+      "rentprice": "30000",
+      "description": "Florida e um dos condomínios mais completos da região - Logo na entrada você se impressiona com a grandeza do placeholderplaceholderplaceholder",
+      "bedrooms": 5,
+      "suites": 3,
+      "parkingspots": 5,
+      "area": 160,
+      "type": "Casa",
+      "subtype": "de Vila",
+      "availability": {
+        "sell": true,
+        "rent": true,
+        "season": false
+      }
+    },
+    {
+      "id": 5,
+      "imovelid": 1,
+      "code": 3,
+      "position": 5,
+      "coverphoto": "http://s.quickfast.com/imobzimodelo/fotos/648-344/2979.jpg",
+      "title": "Belíssimo apto",
+      "sellprice": "4500000",
+      "rentprice": "30000",
+      "description": "Florida e um dos condomínios mais completos da região - Logo na entrada você se impressiona com a grandeza do placeholderplaceholderplaceholder",
+      "bedrooms": 5,
+      "suites": 3,
+      "parkingspots": 5,
+      "area": 160,
+      "type": "Casa",
+      "subtype": "de Vila",
+      "availability": {
+        "sell": true,
+        "rent": true,
+        "season": false
+      }
+    },
+    {
+      "id": 6,
+      "imovelid": 1,
+      "code": 3,
+      "position": 6,
+      "coverphoto": "http://s.quickfast.com/imobzimodelo/fotos/648-344/2979.jpg",
+      "title": "Belíssimo apto",
+      "sellprice": "4500000",
+      "rentprice": "30000",
+      "description": "Florida e um dos condomínios mais completos da região - Logo na entrada você se impressiona com a grandeza do placeholderplaceholderplaceholder",
+      "bedrooms": 5,
+      "suites": 3,
+      "parkingspots": 5,
+      "area": 160,
+      "type": "Casa",
+      "subtype": "de Vila",
+      "availability": {
+        "sell": true,
+        "rent": false,
+        "season": false
+      }
+    },
+    {
+      "id": 7,
+      "imovelid": 1,
+      "code": 3,
+      "position": 7,
+      "coverphoto": "http://s.quickfast.com/imobzimodelo/fotos/648-344/2979.jpg",
+      "title": "Belíssimo apto",
+      "sellprice": "4500000",
+      "rentprice": "30000",
+      "description": "Florida e um dos condomínios mais completos da região - Logo na entrada você se impressiona com a grandeza do placeholderplaceholderplaceholder",
+      "bedrooms": 5,
+      "suites": 3,
+      "parkingspots": 5,
+      "area": 160,
+      "type": "Casa",
+      "subtype": "de Vila",
+      "availability": {
+        "sell": true,
+        "rent": false,
+        "season": false
+      }
+    }
+  ],
+  "typespotlights": [
+    {
+      "id": 1,
+      "name": "Casa / Sobrado",
+      "quantity": 8
+    },
+    {
+      "id": 2,
+      "name": "Casa / Sobrado",
+      "quantity": 7
+    },
+    {
+      "id": 3,
+      "name": "Casa / Sobrado",
+      "quantity": 6
+    },
+    {
+      "id": 4,
+      "name": "Casa / Sobrado",
+      "quantity": 5
+    },
+    {
+      "id": 5,
+      "name": "Casa / Sobrado",
+      "quantity": 4
+    },
+    {
+      "id": 6,
+      "name": "Casa / Sobrado",
+      "quantity": 3
+    },
+    {
+      "id": 7,
+      "name": "Casa / Sobrado",
+      "quantity": 2
+    },
+    {
+      "id": 8,
+      "name": "Casa / Sobrado",
+      "quantity": 1
+    }
+  ],
+  "partners": [
+    {
+      "id": 1,
+      "photo": "http://wgc.quickfast.com/imobzimodelo/corretores/fotos/64.jpg",
+      "fullname": "Roberto da Costa",
+      "fantasyname": "Robertinho",
+      "creci": "1098",
+      "email": "contato@imobzi.com",
+      "phones": [
+        "(11) 4063-4100"
+      ]
+    },
+    {
+      "id": 2,
+      "photo": "http://wgc.quickfast.com/imobzimodelo/corretores/fotos/64.jpg",
+      "fullname": "Carol da Costa",
+      "fantasyname": "",
+      "creci": "1098",
+      "email": "contato@imobzi.com",
+      "phones": [
+        "(11) 4063-4100",
+        "(11) 4063-4100"
+      ]
+    },
+    {
+      "id": 3,
+      "photo": "http://wgc.quickfast.com/imobzimodelo/corretores/fotos/64.jpg",
+      "fullname": "Sílvio da Costa",
+      "fantasyname": "Sílvio",
+      "creci": "1098",
+      "email": "contato@imobzi.com",
+      "phones": [
+        "(11) 4063-4100"
+      ]
+    },
+    {
+      "id": 4,
+      "photo": "http://wgc.quickfast.com/imobzimodelo/corretores/fotos/64.jpg",
+      "fullname": "Roberta da Costa",
+      "fantasyname": "Robertinha",
+      "creci": "1098",
+      "email": "contato@imobzi.com",
+      "phones": [
+        "(11) 4063-4100",
+        "(11) 4063-4100"
+      ]
+    }
+  ],
+  "properties": [
+    {
+      "id": 1,
+      "code": 5,
+      "title": "Título parametrizável",
+      "type": "Casa",
+      "subtype": "de vila",
+      "description": "Descrição parametrizável",
+      "bedrooms": 5,
+      "suites": 1,
+      "parkingspots": 5,
+      "area": 1,
+      "availability": {
+        "sell": true,
+        "rent": true,
+        "season": false
+      },
+      "prices": {
+        "publish": true,
+        "sell": 11000000,
+        "rent": 3200,
+        "season": 0,
+        "secondarycosts": {
+          "condo": 30000,
+          "iptu": 0
+        }
+      },
+      "multimidias": [
+        {
+          "url": "https://www.youtube.com/watch?v=E72tlmTqxyM",
+          "title": "Imobzi Software para imobiliárias",
+          "thumbnail": "http://s.quickfast.com/imobzimodelo/fotos/138-105/2992.jpg",
+          "position:": 2,
+          "type": "video"
+        },
+        {
+          "url": "http://s.quickfast.com/imobzimodelo/fotos/993-746/2992.jpg",
+          "title": "Minha casa, minha vida",
+          "thumbnail": "http://s.quickfast.com/imobzimodelo/fotos/138-105/2992.jpg",
+          "position:": 1,
+          "type": "photo"
+        },
+        {
+          "url": "http://s.quickfast.com/imobzimodelo/fotos/993-746/2992.jpg",
+          "title": "Minha casa, minha vida",
+          "thumbnail": "http://s.quickfast.com/imobzimodelo/fotos/138-105/2992.jpg",
+          "position:": 1,
+          "type": "photo"
+        },
+        {
+          "url": "http://s.quickfast.com/imobzimodelo/fotos/993-746/2992.jpg",
+          "title": "Minha casa, minha vida",
+          "thumbnail": "http://s.quickfast.com/imobzimodelo/fotos/138-105/2992.jpg",
+          "position:": 1,
+          "type": "photo"
+        },
+        {
+          "url": "http://s.quickfast.com/imobzimodelo/fotos/993-746/2992.jpg",
+          "title": "Minha casa, minha vida",
+          "thumbnail": "http://s.quickfast.com/imobzimodelo/fotos/138-105/2992.jpg",
+          "position:": 1,
+          "type": "photo"
+        },
+        {
+          "url": "http://s.quickfast.com/imobzimodelo/fotos/993-746/2992.jpg",
+          "title": "Minha casa, minha vida",
+          "thumbnail": "http://s.quickfast.com/imobzimodelo/fotos/138-105/2992.jpg",
+          "position:": 1,
+          "type": "photo"
+        },
+        {
+          "url": "http://s.quickfast.com/imobzimodelo/fotos/993-746/2992.jpg",
+          "title": "Minha casa, minha vida",
+          "thumbnail": "http://s.quickfast.com/imobzimodelo/fotos/138-105/2992.jpg",
+          "position:": 1,
+          "type": "photo"
+        },
+        {
+          "url": "http://s.quickfast.com/imobzimodelo/fotos/993-746/2992.jpg",
+          "title": "Minha casa, minha vida",
+          "thumbnail": "http://s.quickfast.com/imobzimodelo/fotos/138-105/2992.jpg",
+          "position:": 1,
+          "type": "photo"
+        },
+        {
+          "url": "http://s.quickfast.com/imobzimodelo/fotos/993-746/2992.jpg",
+          "title": "Minha casa, minha vida",
+          "thumbnail": "http://s.quickfast.com/imobzimodelo/fotos/138-105/2992.jpg",
+          "position:": 1,
+          "type": "photo"
+        }
+      ],
+      "features": [
+        {
+          "categoryName": "Aspectos Gerais",
+          "features": [
+            {
+              "name": "Closet",
+              "value": ""
+            },
+            {
+              "name": "Closet",
+              "value": ""
+            },
+            {
+              "name": "Closet",
+              "value": ""
+            },
+            {
+              "name": "Posição do sol",
+              "value": "Face Norte"
+            },
+            {
+              "name": "Posição do sol",
+              "value": "Face Norte"
+            },
+            {
+              "name": "Posição do sol",
+              "value": "Face Norte"
+            }
+          ]
+        },
+        {
+          "categoryName": "Áreas Comuns",
+          "features": [
+            {
+              "name": "Closet",
+              "value": ""
+            },
+            {
+              "name": "Closet",
+              "value": ""
+            },
+            {
+              "name": "Closet",
+              "value": ""
+            },
+            {
+              "name": "Posição do sol",
+              "value": "Face Norte"
+            },
+            {
+              "name": "Posição do sol",
+              "value": "Face Norte"
+            },
+            {
+              "name": "Posição do sol",
+              "value": "Face Norte"
+            }
+          ]
+        },
+        {
+          "categoryName": "Outras Informações",
+          "features": [
+            {
+              "name": "ClosetClosetClosetCloset",
+              "value": ""
+            },
+            {
+              "name": "Closet",
+              "value": ""
+            },
+            {
+              "name": "Closet",
+              "value": ""
+            },
+            {
+              "name": "Posição do sol",
+              "value": "Face Norte"
+            },
+            {
+              "name": "Posição do sol",
+              "value": "Face Norte"
+            },
+            {
+              "name": "Posição do sol",
+              "value": "Face Norte"
+            }
+          ]
+        },
+        {
+          "categoryName": "Proximidades",
+          "features": [
+            {
+              "name": "Closet",
+              "value": ""
+            },
+            {
+              "name": "Closet",
+              "value": ""
+            },
+            {
+              "name": "Closet",
+              "value": ""
+            },
+            {
+              "name": "Posição do sol",
+              "value": "Face Norte"
+            },
+            {
+              "name": "Posição do sol",
+              "value": "Face Norte"
+            },
+            {
+              "name": "Posição do sol",
+              "value": "Face Norte"
+            }
+          ]
+        }
+      ],
+      "localization": {
+        "address": {
+          "publishfulladdress": false,
+          "street": "Avenida das Nações Unidas",
+          "number": "18801",
+          "neighborhood": "Vila Almeida",
+          "city": "São Paulo",
+          "state": "SP"
+        },
+        "map": {
+          "longitude": -46.720442,
+          "latitude": -23.652952,
+          "publishtype": "exact"
+        }
+      },
+      "partner": {
+        "id": 2,
+        "displaypartner": true
+      }
+    }
+  ],
+  "multimidias": [
+    {
+      "url": "http://s.quickfast.com/imobzimodelo/fotos/993-746/3014.jpg",
+      "title": "Minha casa, minha vida",
+      "thumbnail": "http://s.quickfast.com/imobzimodelo/fotos/993-746/3014.jpg",
+      "position:": 1,
+      "type": "photo"
+    },
+    {
+      "url": "http://s.quickfast.com/imobzimodelo/fotos/993-746/3015.jpg",
+      "title": "Imobzi Software para imobiliárias",
+      "thumbnail": "http://s.quickfast.com/imobzimodelo/fotos/138-105/3015.jpg",
+      "position:": 2,
+      "type": "video"
+    },
+    {
+      "url": "http://s.quickfast.com/imobzimodelo/fotos/993-746/3011.jpg",
+      "title": "Minha casa, minha vida",
+      "thumbnail": "http://s.quickfast.com/imobzimodelo/fotos/993-746/3011.jpg",
+      "position:": 1,
+      "type": "photo"
+    },
+    {
+      "url": "http://s.quickfast.com/imobzimodelo/fotos/993-746/3012.jpg",
+      "title": "Minha casa, minha vida",
+      "thumbnail": "http://s.quickfast.com/imobzimodelo/fotos/993-746/3012.jpg",
+      "position:": 1,
+      "type": "photo"
+    },
+    {
+      "url": "http://s.quickfast.com/imobzimodelo/fotos/993-746/3013.jpg",
+      "title": "Minha casa, minha vida",
+      "thumbnail": "http://s.quickfast.com/imobzimodelo/fotos/993-746/3013.jpg",
+      "position:": 1,
+      "type": "photo"
+    },
+    {
+      "url": "http://s.quickfast.com/imobzimodelo/fotos/993-746/2992.jpg",
+      "title": "Minha casa, minha vida",
+      "thumbnail": "http://s.quickfast.com/imobzimodelo/fotos/138-105/2992.jpg",
+      "position:": 1,
+      "type": "photo"
+    }
+  ],
+  "help": [
+    {
+      "propertyCode": null,
+      "subject": "Agendar uma visita",
+      "name": "teste",
+      "email": "teste",
+      "phonenumber": "teste",
+      "message": "Olá, tenho interesse neste imóvel que vi no seu site e gostaria de receber mais informações. Aguardo contato. Obrigado.\n    ",
+      "id": 1
+    },
+    {
+      "propertyCode": null,
+      "subject": "Agendar uma visita",
+      "name": "teste",
+      "email": "teste",
+      "phonenumber": "teste",
+      "message": "Olá, tenho interesse neste imóvel que vi no seu site e gostaria de receber mais informações. Aguardo contato. Obrigado.\n    ",
+      "id": 2
+    },
+    {
+      "propertyCode": null,
+      "subject": "Agendar uma visita",
+      "name": "eeee",
+      "email": "eeeee",
+      "phonenumber": "eeeee",
+      "message": "Olá, tenho interesse neste imóvel que vi no seu site e gostaria de receber mais informações. Aguardo contato. Obrigado.\n    ",
+      "id": 3
+    },
+    {
+      "propertyCode": "5",
+      "subject": "Agendar uma visita",
+      "name": "teste",
+      "email": "test",
+      "phonenumber": "test",
+      "message": "Olá, tenho interesse neste imóvel que vi no seu site e gostaria de receber mais informações. Aguardo contato. Obrigado.\n    ",
+      "id": 4
+    },
+    {
+      "propertyCode": null,
+      "subject": "Agendar uma visita",
+      "name": "Alan",
+      "email": "alan@gmail.com",
+      "phonenumber": "alan@gmail.com",
+      "message": "Olá, tenho interesse neste imóvel que vi no seu site e gostaria de receber mais informações. Aguardo contato. Obrigado.\n    ",
+      "id": 5
+    },
+    {
+      "propertyCode": null,
+      "subject": "Agendar uma visita",
+      "name": "Alan Melo",
+      "email": "raphael@quickfast.com",
+      "phonenumber": "raphael@quickfast.com",
+      "message": "Olá, tenho interesse neste imóvel que vi no seu site e gostaria de receber mais informações. Aguardo contato. Obrigado.\n    ",
+      "id": 6
+    },
+    {
+      "propertyCode": null,
+      "subject": "Agendar uma visita",
+      "name": "Alan Melo",
+      "email": "alan@gmail.com",
+      "phonenumber": "alan@gmail.com",
+      "message": "Olá, tenho interesse neste imóvel que vi no seu site e gostaria de receber mais informações. Aguardo contato. Obrigado.\n    ",
+      "id": 7
+    },
+    {
+      "propertyCode": null,
+      "subject": "Agendar uma visita",
+      "name": "Alan Melo",
+      "email": "alan@gmail.com",
+      "phonenumber": "alan@gmail.com",
+      "message": "Olá, tenho interesse neste imóvel que vi no seu site e gostaria de receber mais informações. Aguardo contato. Obrigado.\n    ",
+      "id": 8
+    },
+    {
+      "propertyCode": null,
+      "subject": "Agendar uma visita",
+      "name": "Alan Melo",
+      "email": "alan@gmail.com",
+      "phonenumber": "alan@gmail.com",
+      "message": "Olá, tenho interesse neste imóvel que vi no seu site e gostaria de receber mais informações. Aguardo contato. Obrigado.\n    ",
+      "id": 9
+    },
+    {
+      "propertyCode": null,
+      "subject": null,
+      "name": null,
+      "email": null,
+      "phonenumber": null,
+      "message": null,
+      "id": 10
+    },
+    {
+      "propertyCode": null,
+      "subject": null,
+      "name": null,
+      "email": null,
+      "phonenumber": null,
+      "message": null,
+      "id": 11
+    },
+    {
+      "propertyCode": null,
+      "subject": null,
+      "name": null,
+      "email": null,
+      "phonenumber": null,
+      "message": null,
+      "id": 12
+    },
+    {
+      "propertyCode": null,
+      "subject": null,
+      "name": null,
+      "email": null,
+      "phonenumber": null,
+      "message": null,
+      "id": 13
+    }
+  ],
+  "contacts": [
+    {
+      "id": 1,
+      "name": "teste",
+      "email": "teste@quickfast.com",
+      "phone": "777",
+      "message": "Olá"
+    },
+    {
+      "name": "1234",
+      "email": "12314",
+      "phone": "123214",
+      "message": "1234214",
+      "id": 2
+    }
+  ],
+  "newsletter": [
+    {
+      "id": 1,
+      "name": "teste",
+      "email": "teste@teste.com"
+    },
+    {
+      "name": null,
+      "email": null,
+      "id": 2
+    }
+  ],
+  "requestProperty": [
+    {
+      "id": 1,
+      "name": "123",
+      "phone": "123123",
+      "email": "12312312",
+      "interest": "compra",
+      "type": "apto/teste",
+      "maxValue": "rs 27000",
+      "bedrooms": "até quatro",
+      "observations": "nenhuma"
+    },
+    {
+      "name": null,
+      "phone": null,
+      "email": null,
+      "interest": null,
+      "type": null,
+      "maxValue": null,
+      "bedrooms": null,
+      "observations": null,
+      "id": 2
+    }
+  ]
+}
